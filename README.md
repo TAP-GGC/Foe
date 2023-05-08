@@ -5,9 +5,11 @@ A web based local multiplayer fighting game developed in GGC's Technology Ambass
 GGC's TAP program allows undergraduate IT students to gain professional skills and experiences while accomplishing outreach with public and campus events. The primary objective of TAP is to spark interest in the field of IT in students and peoples with little or no experience with said field. Read more about TAP here: https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program
 
 # Outreach Activities 
-Atlanta Science Festival
-Super Saturday Series
-TAP EXPO
+- Atlanta Science Festival, March 18th, Hosted at GGC
+- Atlanta Science Festival, March 25th, Hosted at Piedmont Park
+- TAP EXPO, March 21st, Hosted at GGC
+- STARS, April 13th, Hosted at GGC
+- Create Symposium, April 25th, Hosted at GGC
 
 # Publications
 
