@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+<style>
+    body{
+        background-color: rgb(255, 255, 222);
+        background-image: url("");
+        background-repeat: no-repeat;
+        background-size: 100%, 100%;
+    }
+    #header{
+        margin:auto;
+        text-align: center;
+        margin-bottom: 4%;
+        text-decoration: underline;
+        width: 30%;
+        height: auto;
+    }
+    #banner{
+        width: 88%;
+        min-height: 100%;
+        border: 3px solid goldenrod;
+        border-radius: 2px;
+        margin: auto;
+        background-color: rgba(255, 209, 81, 0.342);
+        opacity: 87%;
+        padding: 10px;
+        text-align: center;
+        height: fit-content;
+    }
+    #image{
+        display:block;
+        margin-left: auto;
+        margin-right:auto;
+        width: 30%;
+    }
+    .divCenter{
+        margin:auto;
+        text-align:center;
+    }
+    span{
+        font-style: italic;
+    }
+    canvas{
+        width:720px;
+        height:480px;
+        border:4px solid rgb(202, 201, 201);
+        border-radius: 4px;
+        background-color:rgb(51, 40, 40);
+    }
+    button{
+        font-size:1.1em;
+    }
+</style>
+</head>
+<body onload="">
+    <div id="banner">
+        <h1 id="header">Exercise 2</h1>
+
+        <button onclick="animation1()">Run animation 1</button><br><br>
+        <canvas id="canvas1" width="720px" height="480px"></canvas>
+
+        <br><hr><br>
+
+        <button onclick="animation2()">Run animation 2</button><br><br>
+        <canvas id="canvas2" width="720px" height="480px"></canvas>
+
+        <br><hr><br>
+
+        <button onclick="animation3()">Run animation 3</button><br><br>
+        <canvas id="canvas3" width="720px" height="480px"></canvas>
+    </div>
+    <script>
+        let canvas1 = document.getElementById("canvas1");
+        let canvas2 = document.getElementById("canvas2");
+        let canvas3 = document.getElementById("canvas3");
+
+        var ctx1 = canvas1.getContext("2d");
+        var ctx2 = canvas2.getContext("2d");
+        var ctx3 = canvas3.getContext("2d");
+
+        let animation1Running = false;
+        let animation2Running = false;
+        let animation3Running = false;
+
+        let box1X = 20;
+        let box2X = 20;
+        let box3X = 20;
+        let box3Y = 10;
+
+        let boxWidth = 100;
+        let boxHeight = 100;
+
+        let interval = setInterval(runAnimationFrames, 20);
+
+      /*  
+        window.addEventListener('keydown', function(e){
+                    if(e.keyCode == 68){
+                        box3X += 5;
+                    }
+                    if(e.keyCode == 65){
+                        box3X -= 5;
+                    }
+                    if(e.keyCode == 87){
+                        box3Y -= 5;
+                    }
+                    if(e.keyCode == 83){
+                        box3Y += 5;
+                    }
+                })
+             */   
+
+        function animation1(){
+            var ctx = canvas1.getContext("2d");
+
+            if(!animation1Running){
+                animation1Running = true;
+                
+
+                ctx.fillStyle = "red";
+                ctx.fillRect(box1X, 10, boxWidth, boxHeight);
+                
+            }
+            else{
+                animation1Running = false;
+                ctx.clearRect(0, 0, canvas1.width, canvas1.height);
+                box1X = 20;
+            }
+
+
+        }
+
+        function animation2(){
+            var ctx = canvas2.getContext("2d");
+
+            if(!animation2Running){
+                animation2Running = true;
+                
+
+                ctx.fillStyle = "red";
+                ctx.fillRect(box2X, 10, boxWidth, boxHeight);
+            }
+            else{
+                animation2Running = false;
+                ctx.clearRect(0, 0, canvas2.width, canvas2.height);
+                box2X = 20;
+            }
+        }
+
+        function animation3(){
+            var ctx = canvas3.getContext("2d");
+
+            if(!animation3Running){
+                animation3Running = true;
+                
+
+                ctx.fillStyle = "red";
+                ctx.fillRect(box3X, box3Y, boxWidth, boxHeight);
+            }
+            else{
+                animation3Running = false;
+                ctx.clearRect(0, 0, canvas3.width, canvas3.height);
+                box3X = 20;
+            }
+
+        }
+
+        function runAnimationFrames(){
+
+            if(animation1Running) {
+                box1X += L;
+
+                //ctx1.clearRect(0, 0, canvas1.width, canvas1.height);
+
+                ctx1.fillStyle = "red";
+                ctx1.fillRect(box1X, 10, boxWidth, boxHeight); //Values: X, Y, width, height - where X and Y are the top left corner of the shape.
+            }
+            
+            if(animation2Running) {
+                box2X += 5;
+
+                ctx2.clearRect(0, 0, canvas2.width, canvas2.height);
+
+                ctx2.fillStyle = "red";
+                ctx2.fillRect(box2X, 10, boxWidth, boxHeight);
+
+                if(box2X+boxWidth >= L){
+                    box2X = L;
+                }
+            }
+
+            if(animation3Running) {
+                
+                ctx3.fillStyle = "red";
+                if(box3X+boxWidth >= 720){
+                    box3X = 720-boxWidth;
+                }
+                else if(box3X <= 0){
+                    box3X = 0;
+                }
+                if(box3Y+boxHeight >= L){
+                    box3Y = L;
+                }
+                else if(box3Y <= L){
+                    box3Y = L;
+                }
+                ctx3.clearRect(0, 0, canvas3.width, canvas3.height);
+
+                ctx3.fillRect(box3X, box3Y, boxWidth, boxHeight);
+            }
+
+
+        }
+    </script>
+</body>
+</html>
+ 
