@@ -12,6 +12,7 @@ GGC's TAP program allows undergraduate IT students to gain professional skills a
 - Create Symposium, April 25th, Hosted at GGC
 
 # Publications
+To be updated
 
 
 # Technology
