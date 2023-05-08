@@ -13,4 +13,7 @@ TAP EXPO
 
 
 # Technology
-We used html to host and style the page. Javascript was used to make 
+We used html to host and style the page. Javascript was used for the canvas to make the game.
+
+# Usage
+The project is web-hosted. All you need is another person to play with you and this link: [aburns10.AlterVista.org](https://aburns10.altervista.org/)
