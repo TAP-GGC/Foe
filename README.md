@@ -47,7 +47,7 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 7. Once the game is over click the 'Reset Game' button at the top of the screen to play again or close the browser to quit.
 
 ## Short Demo Videos
-[Foes - Demo Video Workshop](https://youtu.be/crpZIvLSENI) <br>
+[Foes - Demo Video Workshop 1](https://youtu.be/crpZIvLSENI) <br>
 [Foes - Demo Video Game](https://youtu.be/qYuCzIq-tyI) <br>
 [Foes - Demo Video CodePen](https://youtu.be/kptmTYYNank)
 
