@@ -16,7 +16,7 @@ By participating in the workshop, student will get to experiment with JavaScript
 * Dr. Wei Jin
 * Dr. Xu Xin <br><br>
 ### Team Photo
-<img src= "Media/createSymposium2.jpg" width="400" height="200"> <br>
+<img src= "Media/createSymposium2.jpg" width="400" height="400"> <br>
 (Left: Alec Burns, Right: Alex Shaklee) <br>
 
 ## Publications
@@ -32,6 +32,7 @@ By participating in the workshop, student will get to experiment with JavaScript
 
 ## Similar Projects
 ## Technology
+This project and the following workshop uses HTML, CSS and JavaScript.
 
 ## Project Setup/Installation
 ### Description
