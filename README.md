@@ -1,7 +1,7 @@
 # Foes - Teaching JavaScript Fundamentals Through a MultiPlayer Fighting Game
 ## Description
 * Difficulty Level: Easy - Intermediate
-* Target Audience: High School - Early College Students
+* Target Audience: High School - College
 * Duration of Workshop: 45 min - 1 hr
 * Needed Materials: Computer, Internet Access
 * The goal of this project is to educate others about JavaScript basics while building a HTML/CSS webpage.
