@@ -46,7 +46,7 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 6. After a power up is picked the game will continue. Keep playing and repeating step 5 until the end game screen is displayed.
 7. Once the game is over click the 'Reset Game' button at the top of the screen to play again or close the browser to quit.
 
-## Short Demo Video
+## Short Demo Videos
 [Foes - Demo Video Workshop](https://youtu.be/crpZIvLSENI) <br>
 [Foes - Demo Video Game](https://youtu.be/qYuCzIq-tyI)
 
