@@ -92,8 +92,24 @@
         let boxWidth = 100;
         let boxHeight = 100;
 
-        let interval = setInterval(runAnimationFrames, 20);
+        /*
+        This is the main piece of code that allows our red boxes to appear animated. Right now our code 
+        will be updated every 20 milliseconds. Here will will set the interval to redraw our 'canvas'. 
+        Increasing the number will cause our animation to appear slower across our pages, while 
+        while decresing has the opposite effect. 
+        */
+        let interval = setInterval(runAnimationFrames, 20); 
 
+
+        /*
+        The addEventLister will allow the user to interact with the third animation.
+        They will be abl to use the four keys to make the box move 
+        left (a), right (d), up (s), and down (w). At first up and down might seem 
+        backward but a canvas in JS starts in the upper left corner with the coordinates (0,0),
+        so as the box moves down the screen for us it's coordinates on the Y axis is 
+        increasing and as the box moves toward the top of the canvas the Y coordinate 
+        decreases.
+        */
       /*  
         window.addEventListener('keydown', function(e){
                     if(e.keyCode == 68){
@@ -109,7 +125,7 @@
                         box3Y += 5;
                     }
                 })
-             */   
+        */   
 
         function animation1(){
             var ctx = canvas1.getContext("2d");
