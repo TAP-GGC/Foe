@@ -48,6 +48,7 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 
 ## Short Demo Video
 [Foes - Demo Video Workshop](https://youtu.be/crpZIvLSENI)
+[Foes - Demo Video Game](https://youtu.be/qYuCzIq-tyI)
 
 ## Workshop Access 
 ### Workshop 1 - CodePen
