@@ -2,7 +2,7 @@
 ## Description
 * Difficulty Level: Intermediate
 * Target Audience: High School - College
-* Duration of Workshop: 45 min - 1 hr
+* Duration of Workshop: 1hr - 1hr30min
 * Needed Materials: Computer, Internet Access
 * The goal of this project is to educate others about JavaScript basics while building a HTML/CSS webpage.
 * Foes is a web-hosted project. This project is curated to peak the interest of non-IT and beginning IT majors.
@@ -60,5 +60,5 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 ### Workshop 2 - CodePen
 1. To properly access Workshop 2 do not click the link provided at the bottom of the webpage as it will cause the layout of your coding enviroment differ from the laid out instructions.
 2. Open the Documents folder.
-3. Under the Documents folder, open the Workshop Instruction folder, and download Workshop 2
+3. Under the Documents folder, open the Workshop Instructions folder, and download Workshop 2
 4. Follow the instructions laid out on the pdf document or follow (CREATE WORKSHOP 2 VIDEO) to complete the workshop.
