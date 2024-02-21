@@ -54,11 +54,11 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 ## Workshop Access 
 ### Workshop 1 - CodePen
 1. Open the Documents folder.
-2. Under the Documents folder, open the Workshops folder, and download Workshop 1
+2. Under the Documents folder, open the Workshop Instructions folder, and download Workshop 1
 3. Follow the instructions laid out on the pdf document or follow [Foes - Workshop 1](https://youtu.be/crpZIvLSENI) to complete the workshop.
 
 ### Workshop 2 - CodePen
 1. To properly access Workshop 2 do not click the link provided at the bottom of the webpage as it will cause the layout of your coding enviroment differ from the laid out instructions.
 2. Open the Documents folder.
-3. Under the Documents folder, open the Workshops folder, and download Workshop 2
+3. Under the Documents folder, open the Workshop Instruction folder, and download Workshop 2
 4. Follow the instructions laid out on the pdf document or follow (CREATE WORKSHOP 2 VIDEO) to complete the workshop.
