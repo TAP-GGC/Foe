@@ -2,7 +2,7 @@
 ## Description
 * Difficulty Level: Intermediate
 * Target Audience: High School - College
-* Duration of Workshop: 1hr - 1hr30min
+* Duration of Workshop: 60 - 90 minutes
 * Needed Materials: Computer, Internet Access
 * The goal of this project is to educate others about JavaScript basics while building a HTML/CSS webpage.
 * Foes is a web-hosted project. This project is curated to peak the interest of non-IT and beginning IT majors.
