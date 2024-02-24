@@ -49,7 +49,8 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 ## Demo Videos
 [Foes - Project Demo](https://youtu.be/qYuCzIq-tyI) <br>
 [Foes - CodePen Introduction](https://youtu.be/MgPB31GBtHE) <br>
-[Foes - Workshop 1](https://youtu.be/crpZIvLSENI) 
+[Foes - Workshop 1](https://youtu.be/crpZIvLSENI) <br>
+[(Foes - Workshop 2)](https://youtu.be/IxMzYn-Ykpk)
 
 ## Workshop Access 
 ### Workshop 1 - CodePen
@@ -61,4 +62,4 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 1. To properly access Workshop 2 do not click the link provided at the bottom of the webpage as it will cause the layout of your coding enviroment differ from the laid out instructions.
 2. Open the Documents folder.
 3. Under the Documents folder, open the Workshop Instructions folder, and download Workshop 2
-4. Follow the instructions laid out on the pdf document or follow (CREATE WORKSHOP 2 VIDEO) to complete the workshop.
+4. Follow the instructions laid out on the pdf document or follow [(Foes - Workshop 2)](https://youtu.be/IxMzYn-Ykpk) to complete the workshop.
