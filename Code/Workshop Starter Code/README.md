@@ -1,1 +1,1 @@
-Starter code for 2 exercises
+#Starter Code for the HTML files containing Workshop 1 and 2
