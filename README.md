@@ -63,3 +63,12 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 2. Open the Documents folder.
 3. Under the Documents folder, open the Workshop Instructions folder, and download Workshop 2
 4. Follow the instructions laid out on the pdf document or follow [Foes - Workshop 2](https://youtu.be/IxMzYn-Ykpk) to complete the workshop.
+
+### Workshop 1 and 2 via Cloning Repo
+1. Click green Code Dropdown button and copy the GitHub Repo by highlighting the link or clicking the copy URL icon.
+2. (PUT INSTRUCTIONS IF THE PERSON DOESNT HAVE GIT BASH INSTALLED) Open your GitBash app and navigate to the location in your files where you want to add the repo by using command "cd <FILENAME/PATH>".
+3. After you decide a location type "git clone <URL you copied from GitHub>"
+4. Press enter so a local copy of the Foes repo will be installed.
+5. Do not exit or enter anything while GitBash is cloning the repo as it can lead to the repo not cloning properly.
+6. Once the repo is finished cloning, open your intended IDE and find the newly cloned repo and open it.
+7. Happy Coding!
