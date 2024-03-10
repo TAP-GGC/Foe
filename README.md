@@ -65,11 +65,12 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 4. Follow the instructions laid out on the pdf document or follow [Foes - Workshop 2](https://youtu.be/IxMzYn-Ykpk) to complete the workshop.
 
 ### Workshop 1 and 2 via Cloning Repo
-1. Click green Code Dropdown button and copy the GitHub Repo by highlighting the link or clicking the copy URL icon.
-2. (PUT INSTRUCTIONS IF THE PERSON DOESNT HAVE GIT BASH INSTALLED OR PUT LINK TO THE INSTRUCTIONS) Open your GitBash app and navigate to the location in your files where you want to add the repo by using command "cd <FILENAME/PATH>".
-3. After you decide a file location type: "git clone <URL you copied from GitHub>"
-4. Press enter so a local copy of the Foes repo will be installed. Do not exit or enter anything while GitBash is cloning the repo.
-5. Once the repo is finished cloning, open your intended IDE and find the newly cloned repo and open it.
-6. To access the workshop instructions, open your file explorer, find your copy of Foes, and open it.
-7. Under the Documents Folder you will see a folder called Repo Workshop Instructions. Click it to access the PDF instructions for Workshop 1 and 2.
-8. Follow the instructions laid out on the pdf document starting with Workshop 1 then Workshop 2.
+1. Click the green Code button near the top of this repo and and copy the GitHub Repo by highlighting the provided link or clicking the copy URL icon.
+2. If you have not yet downloaded GitBash or set up your Git account, please click the link and follow the instructions to install: [Install Git](https://github.com/git-guides/install-git)
+3. Open your GitBash app and navigate to where you want to add the repo by using command "cd <FILENAME/PATH>".
+4. After you decide a file location type: "git clone <link you copied from GitHub>"
+5. Press enter so a local copy of the Foes repo will be installed. Do not exit or enter anything while GitBash is cloning the repo.
+6. Once it's finished cloning, open your IDE and open it the new folder.
+7. To access the workshop instructions, open your file explorer and find your copy of Foes.
+8. Open the Documents Folder and click the folder called Repo Workshop Instructions. Open it to access the PDF instructions.
+9. Follow the instructions laid out on the PDF document starting with Workshop 1 then Workshop 2.
