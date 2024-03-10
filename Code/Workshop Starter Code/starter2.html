@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    
 <style>
     body{
         background-color: rgb(255, 255, 222);
@@ -71,6 +70,7 @@
         <button onclick="animation3()">Run animation 3</button><br><br>
         <canvas id="canvas3" width="720px" height="480px"></canvas>
     </div>
+
     <script>
         let canvas1 = document.getElementById("canvas1");
         let canvas2 = document.getElementById("canvas2");
@@ -91,73 +91,56 @@
 
         let boxWidth = 100;
         let boxHeight = 100;
+      
+        let interval = setInterval(runAnimationFrames, 20);
 
-        /*
-        This is the main piece of code that allows our red boxes to appear animated. Right now our code 
-        will be updated every 20 milliseconds. Here will will set the interval to redraw our 'canvas'. 
-        Increasing the number will cause our animation to appear slower across our pages, while 
-        while decresing has the opposite effect. 
-        */
-        let interval = setInterval(runAnimationFrames, 20); 
-
-
-        /*
-        The addEventLister will allow the user to interact with the third animation.
-        They will be abl to use the four keys to make the box move 
-        left (a), right (d), up (s), and down (w). At first up and down might seem 
-        backward but a canvas in JS starts in the upper left corner with the coordinates (0,0),
-        so as the box moves down the screen for us it's coordinates on the Y axis is 
-        increasing and as the box moves toward the top of the canvas the Y coordinate 
-        decreases.
-        */
        /*  
-        window.addEventListener('keydown', function(e){
-                    if(e.keyCode == 68){
-                        box3X += 5;
-                    }
-                    if(e.keyCode == 65){
-                        box3X -= 5;
-                    }
-                    if(e.keyCode == 87){
-                        box3Y -= 5;
-                    }
-                    if(e.keyCode == 83){
-                        box3Y += 5;
-                    }
-                })
-        */   
+        window.addEventListener('keydown', function(e)
+        {
+            if(e.keyCode == 68)
+                box3X += 5;
 
+            if(e.keyCode == 65)
+                box3X -= 5;
+
+            if(e.keyCode == 87)
+                box3Y -= 5;
+
+            if(e.keyCode == 83)
+                box3Y += 5;
+        })
+        */
+      
         function animation1(){
             var ctx = canvas1.getContext("2d");
 
-            if(!animation1Running){
+            if(!animation1Running)
+            {
                 animation1Running = true;
                 
-
                 ctx.fillStyle = "red";
                 ctx.fillRect(box1X, 10, boxWidth, boxHeight);
-                
             }
-            else{
+            else
+            {
                 animation1Running = false;
                 ctx.clearRect(0, 0, canvas1.width, canvas1.height);
                 box1X = 20;
             }
-
-
         }
 
         function animation2(){
             var ctx = canvas2.getContext("2d");
 
-            if(!animation2Running){
+            if(!animation2Running)
+            {
                 animation2Running = true;
                 
-
                 ctx.fillStyle = "red";
                 ctx.fillRect(box2X, 10, boxWidth, boxHeight);
             }
-            else{
+            else
+            {
                 animation2Running = false;
                 ctx.clearRect(0, 0, canvas2.width, canvas2.height);
                 box2X = 20;
@@ -167,14 +150,15 @@
         function animation3(){
             var ctx = canvas3.getContext("2d");
 
-            if(!animation3Running){
+            if(!animation3Running)
+            {
                 animation3Running = true;
                 
-
                 ctx.fillStyle = "red";
                 ctx.fillRect(box3X, box3Y, boxWidth, boxHeight);
             }
-            else{
+            else
+            {
                 animation3Running = false;
                 ctx.clearRect(0, 0, canvas3.width, canvas3.height);
                 box3X = 20;
@@ -183,50 +167,45 @@
         }
 
         function runAnimationFrames(){
-
-            if(animation1Running) {
+            if(animation1Running) 
+            {
                 box1X += L;
 
                 //ctx1.clearRect(0, 0, canvas1.width, canvas1.height);
-
                 ctx1.fillStyle = "red";
-                ctx1.fillRect(box1X, 10, boxWidth, boxHeight); //Values: X, Y, width, height - where X and Y are the top left corner of the shape.
+                //Values: X, Y, width, height - where X and Y are the top left corner of the shape.
+                ctx1.fillRect(box1X, 10, boxWidth, boxHeight); 
             }
             
-            if(animation2Running) {
+            if(animation2Running) 
+            {
                 box2X += 5;
 
                 ctx2.clearRect(0, 0, canvas2.width, canvas2.height);
-
                 ctx2.fillStyle = "red";
                 ctx2.fillRect(box2X, 10, boxWidth, boxHeight);
 
-                if(box2X+boxWidth >= L){
-                    box2X = L;
-                }
+                if(box2X+boxWidth >= canvas2.width)
+                    box2X = canvas2.width;
             }
 
-            if(animation3Running) {
-                
+            if(animation3Running)
+            {
                 ctx3.fillStyle = "red";
-                if(box3X+boxWidth >= 720){
-                    box3X = 720-boxWidth;
-                }
-                else if(box3X <= 0){
-                    box3X = 0;
-                }
-                if(box3Y+boxHeight >= L){
-                    box3Y = L;
-                }
-                else if(box3Y <= L){
-                    box3Y = L;
-                }
-                ctx3.clearRect(0, 0, canvas3.width, canvas3.height);
 
+                if(box3X+boxWidth >= 720)
+                    box3X = 720-boxWidth;
+                else if(box3X <= 0)
+                    box3X = 0;
+
+                if(box3Y+boxHeight >= L)
+                    box3Y = L;
+                else if(box3Y <= L)
+                    box3Y = L;
+
+                ctx3.clearRect(0, 0, canvas3.width, canvas3.height);
                 ctx3.fillRect(box3X, box3Y, boxWidth, boxHeight);
             }
-
-
         }
     </script>
 </body>
