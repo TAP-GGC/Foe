@@ -38,7 +38,7 @@ This project and the following workshop uses HTML, CSS and JavaScript.
 ### Description
 Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting game that creates a state of tug of war. While each layer starts off with equal power, each time a player loses a round they are offered a powerup. These powerups are randomly generated and stack with each other, meaning that winning too frequently often results in losing, which in turn powers up the former winner. The first player to win 5 rounds wins the game.
 ### Play Game
-1. Click the following link: [FOES](https://aburns10.altervista.org/)
+1. Click the following link: [Play Foes](https://aburns10.altervista.org/)
 2. Click the "Please Click Here To Play Foes" link displayed on the page, which will take you to the main page where the game is being hosted.
 3. To play, grab a friend and pick either Player 1 or Player 2.
 4. Click the 'Start Game' button and use the designated keys for each player to play the game, until the end of the level is reached.
