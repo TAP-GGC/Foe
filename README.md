@@ -65,12 +65,11 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 4. Follow the instructions laid out on the pdf document or follow [Foes - Workshop 2 (CodePen)](https://youtu.be/IxMzYn-Ykpk) to complete the workshop.
 
 ### Workshop 1 and 2 via Cloning Repo
-1. Click the green Code button near the top of this repo and and copy the GitHub Repo by highlighting the provided link or clicking the copy URL icon.
-2. If you have not yet downloaded GitBash or set up your Git account, please click the link and follow the instructions to install: [Install Git](https://github.com/git-guides/install-git)
-3. Open your GitBash app and navigate to where you want to add the repo by using command "cd <FILENAME/PATH>".
-4. After you decide a file location type: "git clone <link you copied from GitHub>"
-5. Press enter so a local copy of the Foes repo will be installed. Do not exit or enter anything while GitBash is cloning the repo.
-6. Once it's finished cloning, open your IDE and open it the new folder.
-7. To access the workshop instructions, open your file explorer and find your copy of Foes.
-8. Open the Documents Folder and click the folder called Repo Workshop Instructions. Open it to access the PDF instructions.
-9. Follow the instructions laid out on the PDF document starting with Workshop 1 then Workshop 2.
+1. To clone this repo you will first need to have GitBash or a Mac equivalent. If you are unsure or do not have it installed please click this link and follow the instructions on the page to properly install the app: [Install Git](https://github.com/git-guides/install-git)
+2. To clone the Foes Repo click the following link: [Clone Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository)
+3. On the webpage there will be three buttons to choose your operating system. Click either Mac, Windows, or Linux. Keep the Web browser option and scroll to the second header entitled "Cloning a repository" and follow the instructions underneath that header only.
+4. Once it's finished cloning, open your IDE and open the new folder.
+5. To retrieve the proper workshop instructions, open your file explorer and find your copy of Foes.
+6. Navigate to the Documents Folder and open the folder called Repo Workshop Instructions. There you should see two PDF documents.
+7. To complete Workshop 1, open and follow the PDF document "Foes-Repo-Workshop1".
+8. After completing Workshop 2, open and follow the PDF document "Foes-Repo-Workshop2".
