@@ -65,7 +65,7 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 4. Follow the instructions laid out on the pdf document or follow [Foes - Workshop 2 (CodePen)](https://youtu.be/IxMzYn-Ykpk) to complete the workshop.
 
 ### Workshop 1 and 2 via Repo
-1. To install your own version this Foes Workshop please click this link: (PUT LINK HERE TO A PDF EXPLAINING HOW TO INSTALL GIT AND GET THE REPOSIRTORY) you will first need to have GitBash or a Mac equivalent. If you are unsure or do not have it installed please click this link and follow the instructions on the page to properly install the app: [Install Git](https://github.com/git-guides/install-git)
+1. To install your own version this Foes Workshop please click this link: (PUT LINK HERE TO A PDF EXPLAINING HOW TO INSTALL GIT AND GET THE REPOSIRTORY) you will first need to have GitBash or a Mac equivalent. If you are unsure or do not have it installed please click this link and follow the instructions on the page to properly install the app: [Install Git](https://username.github.io/folder/document.pdf)
 2. To clone the Foes Repo click the following link: [Clone Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository)
 3. On the webpage there will be three buttons to choose your operating system. Click either Mac, Windows, or Linux. Keep the Web browser option and scroll to the second header entitled "Cloning a repository" and follow the instructions underneath that header only.
 4. Once it's finished cloning, open your IDE and open the new folder.
