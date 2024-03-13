@@ -67,4 +67,6 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 ### Workshop 1 and 2 via Repo
 1. To start the install your own version this Foes Workshop please click this link to install Git if you do not have it or are unsure: [Install Git](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Git.pdf)
 2. To get a copy of Foes please click this link: [Clone Repository](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Foes.pdf)
-3. Once you have your copy open your folder in your coding enviroment (IDE) for example Visual Studio Code or IntelliJ.
+3. To open your new copy of Foes please click this link:
+4. To start Workshop 1 through the PDF document please click this link: (ADD WORKSHOP LINK HERE) , or follow this video (ADD VIDEO LINK HERE) to complete the workshop.
+5. To start Workshop 2 through the PDF document please click this link: (ADD WORKSHOP LINK HERE) , or follow this video (ADD VIDEO LINK HERE) to complete the workshop.
