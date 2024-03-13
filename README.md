@@ -66,10 +66,5 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 
 ### Workshop 1 and 2 via Repo
 1. To start the install your own version this Foes Workshop please click this link to install Git if you do not have it or are unsure: [Install Git](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Git.pdf)
-2. To get a copy of Foes please click this link: [Clone Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository)
-3. On the webpage there will be three buttons to choose your operating system. Click either Mac, Windows, or Linux. Keep the Web browser option and scroll to the second header entitled "Cloning a repository" and follow the instructions underneath that header only.
-4. Once it's finished cloning, open your IDE and open the new folder.
-5. To retrieve the proper workshop instructions, open your file explorer and find your copy of Foes.
-6. Navigate to the Documents Folder and open the folder called Repo Workshop Instructions. There you should see two PDF documents.
-7. To complete Workshop 1, open and follow the PDF document "Foes-Repo-Workshop1".
-8. After completing Workshop 2, open and follow the PDF document "Foes-Repo-Workshop2".
+2. To get a copy of Foes please click this link: [Clone Repository](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Foes.pdf)
+3. Once you have your copy open your folder in your coding enviroment (IDE) for example Visual Studio Code or IntelliJ.
