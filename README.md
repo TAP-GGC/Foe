@@ -53,7 +53,7 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 [Foes - Workshop 2 (CodePen)](https://youtu.be/IxMzYn-Ykpk)
 
 ## Workshop Access 
-There are two ways to access the Foes Workshops. The first way involves navigating to CodePen which is a website that allows users to edit/create basic webpages using different coding languages. The second way to access both workshop involves downloading a copy of the entire Foes Project onto a personal computer and changing the code on an application such as Visual Studio Code. Please choose the method that works best for your classroom needs.
+There are two ways to access the Foes Workshops. The first way involves clicking a link to acccess CodePen: a website that allows users to edit/create basic webpages using HTML, CSS, and JavaScript. The second way involves downloading a copy of the entire Foes Project onto your personal computer and changing the code on a app such as Visual Studio Code. Please choose the method that works best for your classroom needs.
 <br>
 ### Workshop 1 - CodePen
 1. Open the Documents folder.
@@ -61,14 +61,15 @@ There are two ways to access the Foes Workshops. The first way involves navigati
 3. Follow the instructions laid out on the pdf document or follow [Foes - Workshop 1 (CodePen)](https://youtu.be/crpZIvLSENI) to complete the workshop.
 
 ### Workshop 2 - CodePen
-1. To properly access Workshop 2 do not click the link provided at the bottom of the webpage as it will cause the layout of your coding enviroment differ from the laid out instructions.
+1. To properly access Workshop 2 do not click the link provided at the bottom of the webpage as it will cause the layout of your coding enviroment to differ from the laid out PDF instructions.
 2. Open the Documents folder.
 3. Under the Documents folder, open the Workshop Instructions folder, and download Workshop 2
 4. Follow the instructions laid out on the pdf document or follow [Foes - Workshop 2 (CodePen)](https://youtu.be/IxMzYn-Ykpk) to complete the workshop.
 
 ### Workshop 1 and 2 via Repo
-1. Before starting the workshop you will need to have Git installed. If you don't have Git or are unsure whether you have it, please click this link which will take you to PDF instructions provided that will explain how to get Git: [Install Git](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Git.pdf)
-2. To get a copy of Foes please click this link: [Clone Repository](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Foes.pdf)
-3. To open your new copy of Foes please click this link:
-4. To start Workshop 1 through the PDF document please click this link: (ADD WORKSHOP LINK HERE) , or follow this video (ADD VIDEO LINK HERE) to complete the workshop.
-5. To start Workshop 2 through the PDF document please click this link: (ADD WORKSHOP LINK HERE) , or follow this video (ADD VIDEO LINK HERE) to complete the workshop.
+1. Before starting the workshop you will need to have Git installed. If you don't have Git or are unsure whether you have it, please click this link which will take you to PDF instructions provided that will explain how to get Git: [Install Git Instructions](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Git.pdf)
+2. After installing Git to get a copy of Foes, please follow the instructions provided through the link to help you start the "cloning" process: [Install Foes Instructions](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Foes.pdf) Please note that the following instructions will explain a little about what cloning is in Git, but is not an in depth explanation. To learn more about cloning with Git please read the following documents provided through these links: [What is a repository?](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories), [What is cloning a repository?](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+3. The next step is to make sure or verify you have a code editor. Please keep in mind there are multiple code editor apps, but this Workshop will use Visual Studio Code. To get the instructions that explain how to get Visual Studio Code please click this link: [Install Visual Studio Code Instructions]()
+4. After completing steps 1-3 you are now ready to start the Workshops. Happy Coding!
+5. To start Workshop 1 through the PDF document please click this link: (ADD WORKSHOP LINK HERE) , or follow this video (ADD VIDEO LINK HERE) to complete the workshop.
+6. To start Workshop 2 through the PDF document please click this link: (ADD WORKSHOP LINK HERE) , or follow this video (ADD VIDEO LINK HERE) to complete the workshop.
