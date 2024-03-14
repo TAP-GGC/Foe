@@ -53,6 +53,8 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 [Foes - Workshop 2 (CodePen)](https://youtu.be/IxMzYn-Ykpk)
 
 ## Workshop Access 
+There are two ways to access the Foes Workshops. The first way involves navigating to CodePen which is a website that allows users to edit/create basic webpages using different coding languages. The second way to access both workshop involves downloading a copy of the entire Foes Project onto a personal computer and changing the code on an application such as Visual Studio Code. Please choose the method that works best for your classroom needs.
+<br>
 ### Workshop 1 - CodePen
 1. Open the Documents folder.
 2. Under the Documents folder, open the Workshop Instructions folder, and download Workshop 1
@@ -65,7 +67,7 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 4. Follow the instructions laid out on the pdf document or follow [Foes - Workshop 2 (CodePen)](https://youtu.be/IxMzYn-Ykpk) to complete the workshop.
 
 ### Workshop 1 and 2 via Repo
-1. To start the install your own version this Foes Workshop please click this link to install Git if you do not have it or are unsure: [Install Git](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Git.pdf)
+1. Before starting the workshop you will need to have Git installed. If you don't have Git or are unsure whether you have it, please click this link which will take you to PDF instructions provided that will explain how to get Git: [Install Git](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Git.pdf)
 2. To get a copy of Foes please click this link: [Clone Repository](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Foes.pdf)
 3. To open your new copy of Foes please click this link:
 4. To start Workshop 1 through the PDF document please click this link: (ADD WORKSHOP LINK HERE) , or follow this video (ADD VIDEO LINK HERE) to complete the workshop.
