@@ -50,7 +50,8 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 [Foes - Project Demo](https://youtu.be/qYuCzIq-tyI) <br>
 [Foes - CodePen Introduction](https://youtu.be/MgPB31GBtHE) <br>
 [Foes - Workshop 1 (CodePen)](https://youtu.be/crpZIvLSENI) <br>
-[Foes - Workshop 2 (CodePen)](https://youtu.be/IxMzYn-Ykpk)
+[Foes - Workshop 2 (CodePen)](https://youtu.be/IxMzYn-Ykpk) <br>
+[Foes - Workshop 1 (Repo)](https://youtu.be/nR_SH-fX8LY)
 
 ## Workshop Access 
 There are two ways to access the Foes Workshops. The first way involves clicking a link to acccess CodePen: a website that allows users to edit/create basic webpages using HTML, CSS, and JavaScript. The second way involves downloading a copy of the entire Foes Project onto your personal computer and changing the code on a code editor app. This workshop will use Visual Studio Code. Please choose the method that works best for you and your classroom needs.
