@@ -169,7 +169,7 @@
         function runAnimationFrames(){
             if(animation1Running) 
             {
-                box1X += L;
+                box1X += 0.0;
 
                 //ctx1.clearRect(0, 0, canvas1.width, canvas1.height);
                 ctx1.fillStyle = "red";
@@ -185,8 +185,8 @@
                 ctx2.fillStyle = "red";
                 ctx2.fillRect(box2X, 10, boxWidth, boxHeight);
 
-                if(box2X+boxWidth >= canvas2.width)
-                    box2X = canvas2.width;
+                if(box2X+boxWidth >= 1000)
+                    box2X = 1000;
             }
 
             if(animation3Running)
