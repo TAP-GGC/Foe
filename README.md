@@ -46,7 +46,7 @@ This project will also use the following coding languages: <br><br>
 ### Description
 Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting game that creates a state of tug of war. While each layer starts off with equal power, each time a player loses a round they are offered a powerup. These powerups are randomly generated and stack with each other, meaning that winning too frequently often results in losing, which in turn powers up the former winner. The first player to win 5 rounds wins the game.
 ### Play Game
-[Play Foes Instructions](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Play%20Foes.pdf)
+To find detailed instructions on how to play 'FOES' please click this link: [Play Foes Instructions](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Play%20Foes.pdf)
 
 ## Demo Videos
 [Foes - Project Demo](https://youtu.be/qYuCzIq-tyI) <br>
