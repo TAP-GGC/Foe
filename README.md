@@ -34,13 +34,13 @@ By participating in the workshop, student will get to experiment with JavaScript
 ## Technology
 <img src="https://th.bing.com/th/id/R.97e542d12b872858b9b11f5213ff2d84?rik=V71CSdX%2fmtoNEg&pid=ImgRaw&r=0" width="100" height="75"><br>
 (Visual Studio Code)<br><br>
-This project will also use the following coding languages: <br>
-<img src="Media/Screenshot%202024-03-28%20140254.png" width="300" height="150"><br>
-(CSS Coding Sample)<br><br>
-<img src="Media/Screenshot%202024-03-28%20141704.png" width="300" height="77"><br>
-(JavaScript Coding Sample)<br><br>
-<img src="Media/Screenshot%202024-03-28%20142218.png" width="350" height="90"><br>
+This project will also use the following coding languages: <br><br>
+(CSS Coding Sample)<br>
+<img src="Media/Screenshot%202024-03-28%20140254.png" width="300" height="150"><br><br>
+(JavaScript Coding Sample)<br>
+<img src="Media/Screenshot%202024-03-28%20141704.png" width="300" height="77"><br><br>
 (HTML Coding Sample)<br>
+<img src="Media/Screenshot%202024-03-28%20142218.png" width="350" height="90"><br>
 
 ## Project Setup/Installation
 ### Description
