@@ -32,8 +32,8 @@ By participating in the workshop, student will get to experiment with JavaScript
 
 ## Similar Projects
 ## Technology
-This project will use the following coding languages: HTML, CSS and JavaScript.
-<img src="https://th.bing.com/th/id/R.97e542d12b872858b9b11f5213ff2d84?rik=V71CSdX%2fmtoNEg&pid=ImgRaw&r=0" width="200" height="150"><br>
+This project will use the following coding languages: HTML, CSS and JavaScript.<br>
+<img src="https://th.bing.com/th/id/R.97e542d12b872858b9b11f5213ff2d84?rik=V71CSdX%2fmtoNEg&pid=ImgRaw&r=0" width="100" height="75"><br>
 
 ## Project Setup/Installation
 ### Description
