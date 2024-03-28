@@ -51,18 +51,20 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 [Foes - CodePen Introduction](https://youtu.be/MgPB31GBtHE) <br>
 [Foes - Workshop 1 (CodePen)](https://youtu.be/crpZIvLSENI) <br>
 [Foes - Workshop 2 (CodePen)](https://youtu.be/IxMzYn-Ykpk) <br>
-[Foes - Workshop 1 (Repo)](https://youtu.be/nR_SH-fX8LY)
+[Foes - Workshop 1 (Repo)](https://youtu.be/nR_SH-fX8LY) <br>
+[Foes - Workshop 2 (Repo)](https://youtu.be/zDPACQ05Vs0)
 
 ## Workshop Access 
 There are two ways to access the Foes Workshops. The first way involves clicking a link to acccess CodePen: a website that allows users to edit/create basic webpages using HTML, CSS, and JavaScript. The second way involves downloading a copy of the entire Foes Project onto your personal computer and changing the code on a code editor app. This workshop will use Visual Studio Code. Please choose the method that works best for you and your classroom needs.
 <br>
 ### Workshop 1 - CodePen
-1. Open the Documents folder.
-2. Under the Documents folder, open the Workshop Instructions folder, and download Workshop 1
-3. Follow the instructions laid out on the pdf document or follow [Foes - Workshop 1 (CodePen)](https://youtu.be/crpZIvLSENI) to complete the workshop.
+1. CodePen Workshop 1: [Workshop 1 - CodePen Access](https://codepen.io/Alreeshid/pen/xxyGwWp)
+2. Open the Documents folder.
+3. Under the Documents folder, open the Workshop Instructions folder, and download Workshop 1
+4. Follow the instructions laid out on the pdf document or follow [Foes - Workshop 1 (CodePen)](https://youtu.be/crpZIvLSENI) to complete the workshop.
 
 ### Workshop 2 - CodePen
-1. To properly access Workshop 2 do not click the link provided at the bottom of the webpage as it will cause the layout of your coding enviroment to differ from the laid out PDF instructions.
+1. To properly access Workshop 2 do not click the link provided at the bottom of the webpage as it will cause the layout of your coding enviroment to differ from the laid out PDF instructions. Instead use this link: [Workshop 2 - CodePen Access](https://codepen.io/Alreeshid/pen/wvYaKjw)
 2. Open the Documents folder.
 3. Under the Documents folder, open the Workshop Instructions folder, and download Workshop 2
 4. Follow the instructions laid out on the pdf document or follow [Foes - Workshop 2 (CodePen)](https://youtu.be/IxMzYn-Ykpk) to complete the workshop.
@@ -73,4 +75,4 @@ There are two ways to access the Foes Workshops. The first way involves clicking
 3. The next step is to make sure or verify you have a code editor. Please keep in mind there are multiple code editor apps, but this Workshop will use Visual Studio Code. To get the instructions that explain how to install Visual Studio Code please click this link: [Install Visual Studio Code Instructions](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Visual%20Studio%20Code.pdf)
 4. After completing steps 1-3 you are now ready to start the Foes Workshop. Happy Coding!
 5. To start Workshop 1 through the PDF document please click this link: [Foes - Workshop 1 PDF](https://github.com/TAP-GGC/Foe/blob/main/Documents/Workshop%20Instructions/Repo%20Workshop%20Instructions/Foes-Repo-Workshop1.pdf), or follow this video [Foes - Workshop 1 (Repo)](https://youtu.be/nR_SH-fX8LY) to complete the workshop.
-6. To start Workshop 2 through the PDF document please click this link: [Foes - Workshop 2 PDF](https://github.com/TAP-GGC/Foe/blob/main/Documents/Workshop%20Instructions/Repo%20Workshop%20Instructions/Foes-Repo-Workshop2.pdf), or follow this video (ADD VIDEO LINK HERE) to complete the workshop.
+6. To start Workshop 2 through the PDF document please click this link: [Foes - Workshop 2 PDF](https://github.com/TAP-GGC/Foe/blob/main/Documents/Workshop%20Instructions/Repo%20Workshop%20Instructions/Foes-Repo-Workshop2.pdf), or follow this video [Foes - Workshop 2 (Repo)](https://youtu.be/zDPACQ05Vs0) to complete the workshop.
