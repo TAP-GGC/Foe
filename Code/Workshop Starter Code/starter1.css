@@ -1,0 +1,54 @@
+body 
+    {
+        background-color: limegreen;
+        background-image: url("");
+        background-repeat: no-repeat;
+        background-size: 100%, 100%;
+    }
+
+#buttons
+{
+    /* Notice how this element has a #? This is to target a page element with a given ID.
+    You'll notice that this element (as seen in the HTML Code) and a Div, is not the only Div we use. To avoid them from being formatted usign the same
+    styles, we give them each a unique ID.  */
+        margin: auto;
+        text-align: center;
+}
+
+#header 
+{
+        margin: auto;
+        text-align: center;
+        margin-bottom: 4%;
+}
+
+#banner 
+    {
+        width: 78%;
+        height: 900px;
+        min-height: 100%;
+        border: 2px solid red;
+        margin: auto;
+        background-color: ivory;
+        opacity: 67%;
+        padding: 10px;
+    }
+
+    #image 
+    {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+    }
+
+    .divCenter 
+    {
+        margin: auto;
+        text-align: center;
+    }
+
+    span 
+    {
+        font-style: italic;
+    }

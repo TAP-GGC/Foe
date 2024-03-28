@@ -61,5 +61,3 @@ const powerupList = [
         }
     }
 ];
-
-//powerupList[0].effect(player1); //As an example, this 
