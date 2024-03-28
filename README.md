@@ -33,8 +33,11 @@ By participating in the workshop, student will get to experiment with JavaScript
 ## Similar Projects
 ## Technology
 <img src="https://th.bing.com/th/id/R.97e542d12b872858b9b11f5213ff2d84?rik=V71CSdX%2fmtoNEg&pid=ImgRaw&r=0" width="100" height="75"><br>
-(Visual Studio Code)
+(Visual Studio Code)<br>
 This project will also use the following coding languages: 
+<img src="Media/Screenshot%202024-03-28%20140254.png" width="100" height="75"><br>
+<img src="Media/Screenshot%202024-03-28%20141704.png" width="100" height="75"><br>
+<img src="Media/Screenshot%202024-03-28%20142218.png" width="100" height="75"><br>
 HTML, CSS and JavaScript.<br>
 
 ## Project Setup/Installation
