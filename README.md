@@ -61,12 +61,12 @@ There are two ways to access the Foes Workshops. The first way involves clicking
 <br>
 ### Workshop 1 - CodePen
 1. CodePen Workshop 1: [Workshop 1 - CodePen Access](https://codepen.io/Alreeshid/pen/xxyGwWp)
-2. [Foes - Workshop 1 PDF](https://github.com/TAP-GGC/Foe/blob/main/Documents/Workshop%20Instructions/CodePen%20Workshop%20Instructions/Foes-Workshop1.pdf)
+2. To get Workshop 1 Instructions, please click this link: [Foes - Workshop 1 PDF](https://github.com/TAP-GGC/Foe/blob/main/Documents/Workshop%20Instructions/CodePen%20Workshop%20Instructions/Foes-Workshop1.pdf)
 4. To get a video walkthrough please click this link: [Foes - Workshop 1 (CodePen)](https://youtu.be/crpZIvLSENI)
 
 ### Workshop 2 - CodePen
 1. To properly access Workshop 2 do not click the link provided at the bottom of the webpage as it will cause the layout of your coding enviroment to differ from the laid out PDF instructions. Instead use this link: [Workshop 2 - CodePen Access](https://codepen.io/Alreeshid/pen/wvYaKjw)
-2. [Foes - Workshop 2 PDF](https://github.com/TAP-GGC/Foe/blob/main/Documents/Workshop%20Instructions/CodePen%20Workshop%20Instructions/Foes-Workshop2.pdf)
+2. To get Workshop 2 Instructions, please click this link: [Foes - Workshop 2 PDF](https://github.com/TAP-GGC/Foe/blob/main/Documents/Workshop%20Instructions/CodePen%20Workshop%20Instructions/Foes-Workshop2.pdf)
 3. To get a video walkthrough please click this link: [Foes - Workshop 2 (CodePen)](https://youtu.be/IxMzYn-Ykpk) to complete the workshop.
 
 ### Workshop 1 and 2 via Repo
