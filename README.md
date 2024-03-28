@@ -37,7 +37,7 @@ By participating in the workshop, student will get to experiment with JavaScript
 This project will also use the following coding languages: <br>
 <img src="Media/Screenshot%202024-03-28%20140254.png" width="300" height="150"><br>
 <img src="Media/Screenshot%202024-03-28%20141704.png" width="300" height="77"><br>
-<img src="Media/Screenshot%202024-03-28%20142218.png" width="300" height="77"><br>
+<img src="Media/Screenshot%202024-03-28%20142218.png" width="350" height="77"><br>
 HTML, CSS and JavaScript.<br>
 
 ## Project Setup/Installation
