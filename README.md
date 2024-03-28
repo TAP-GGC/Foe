@@ -72,8 +72,8 @@ There are two ways to access the Foes Workshops. The first way involves clicking
 4. Follow the instructions laid out on the pdf document or follow [Foes - Workshop 2 (CodePen)](https://youtu.be/IxMzYn-Ykpk) to complete the workshop.
 
 ### Workshop 1 and 2 via Repo
-Please follow the steps below to properly download and do the workshop:
-[Install Git](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Git.pdf)
+Please follow the steps below to properly download and do the workshop:<br>
+[Install Git](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Git.pdf)<br>
 [Install Foes](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Foes.pdf)<br>
    Please note that the following instructions will explain a little about what cloning is, but this is not an in depth explanation. To learn more about cloning with Git please click the following links: [What is a repository?](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) and [What is cloning?](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 [Install Visual Studio Code](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Visual%20Studio%20Code.pdf)
