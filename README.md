@@ -49,7 +49,7 @@ Taking inspiration from the game ROUNDS on Steam, we set out to make a fighting 
 To find detailed instructions on how to play 'FOES' please click this link: [Play Foes Instructions](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Play%20Foes.pdf)
 
 ## Demo Videos
-[Foes - Project Demo](https://youtu.be/qYuCzIq-tyI) <br>
+[Foes - Project Demo](https://youtu.be/TSae0OkMVps) <br>
 [Foes - CodePen Introduction](https://youtu.be/MgPB31GBtHE) <br>
 [Foes - Workshop 1 (CodePen)](https://youtu.be/crpZIvLSENI) <br>
 [Foes - Workshop 2 (CodePen)](https://youtu.be/IxMzYn-Ykpk) <br>
