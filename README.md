@@ -1,4 +1,4 @@
-# Foes - Teaching JavaScript Fundamentals Through a MultiPlayer Fighting Game
+# Teaching JavaScript Fundamentals Through a MultiPlayer Fighting Game
 ## Description
 * Difficulty Level: Intermediate
 * Target Audience: High School - College
