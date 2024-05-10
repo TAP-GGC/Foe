@@ -53,7 +53,7 @@ To find detailed instructions on how to play 'FOES' please click this link: [Pla
 [Foes - CodePen Introduction](https://youtu.be/RjTCXWFcRWk) <br>
 [Foes - Workshop 1 (CodePen)](https://youtu.be/PY2kcPDk_fk) <br>
 [Foes - Workshop 2 (CodePen)](https://youtu.be/zK28rMbyrcU) <br>
-[Foes - Workshop 1 (Repo)](https://youtu.be/nR_SH-fX8LY) <br>
+[Foes - Workshop 1 (Repo)](https://youtu.be/s5oirJfEOdY) <br>
 [Foes - Workshop 2 (Repo)](https://youtu.be/zDPACQ05Vs0)
 
 ## Workshop Access 
