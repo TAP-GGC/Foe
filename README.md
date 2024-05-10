@@ -62,12 +62,12 @@ There are two ways to access the Foes Workshops. The first way involves clicking
 ### Workshop 1 - CodePen
 1. CodePen Workshop 1: [Workshop 1 - CodePen Access](https://codepen.io/Alreeshid/pen/xxyGwWp)
 2. To get Workshop 1 Instructions, please click this link: [Foes - Workshop 1 PDF](https://github.com/TAP-GGC/Foe/blob/main/Documents/Workshop%20Instructions/CodePen%20Workshop%20Instructions/Foes-Workshop1.pdf)
-4. To get a video walkthrough please click this link: [Foes - Workshop 1 (CodePen)](https://youtu.be/crpZIvLSENI)
+4. To get a video walkthrough please click this link: [Foes - Workshop 1 (CodePen)](https://youtu.be/PY2kcPDk_fk)
 
 ### Workshop 2 - CodePen
-1. To properly access Workshop 2 do not click the link provided at the bottom of the webpage as it will cause the layout of your coding enviroment to differ from the laid out PDF instructions. Instead use this link: [Workshop 2 - CodePen Access](https://codepen.io/Alreeshid/pen/wvYaKjw)
+1. To properly access Workshop 2 do not click the link provided at the bottom of the webpage as it will cause the layout of your coding environment to differ from the laid out PDF instructions. Instead use this link: [Workshop 2 - CodePen Access](https://codepen.io/Alreeshid/pen/wvYaKjw)
 2. To get Workshop 2 Instructions, please click this link: [Foes - Workshop 2 PDF](https://github.com/TAP-GGC/Foe/blob/main/Documents/Workshop%20Instructions/CodePen%20Workshop%20Instructions/Foes-Workshop2.pdf)
-3. To get a video walkthrough please click this link: [Foes - Workshop 2 (CodePen)](https://youtu.be/IxMzYn-Ykpk) to complete the workshop.
+3. To get a video walkthrough please click this link: [Foes - Workshop 2 (CodePen)](https://youtu.be/zK28rMbyrcU) to complete the workshop.
 
 ### Workshop 1 and 2 via Repo
 Please follow the steps below to properly download and do the workshop:<br>
@@ -75,5 +75,5 @@ Please follow the steps below to properly download and do the workshop:<br>
 2. [Install Foes](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Foes.pdf)<br><br>
    Please note that the following instructions will explain a little about what cloning is, but this is not an in depth explanation. To learn more about cloning with Git please click the following links: [What is a repository?](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) and [What is cloning?](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)<br><br>
 3. [Install Visual Studio Code](https://github.com/TAP-GGC/Foe/blob/main/Documents/Installation%20Instructions/Install%20Visual%20Studio%20Code.pdf)
-4. To start Workshop 1 through the PDF document please click this link: [Foes - Workshop 1 PDF](https://github.com/TAP-GGC/Foe/blob/main/Documents/Workshop%20Instructions/Repo%20Workshop%20Instructions/Foes-Repo-Workshop1.pdf), or follow this video [Foes - Workshop 1 (Repo)](https://youtu.be/nR_SH-fX8LY) to complete the workshop.
+4. To start Workshop 1 through the PDF document please click this link: [Foes - Workshop 1 PDF](https://github.com/TAP-GGC/Foe/blob/main/Documents/Workshop%20Instructions/Repo%20Workshop%20Instructions/Foes-Repo-Workshop1.pdf), or follow this video [Foes - Workshop 1 (Repo)](https://youtu.be/s5oirJfEOdY) to complete the workshop.
 5. To start Workshop 2 through the PDF document please click this link: [Foes - Workshop 2 PDF](https://github.com/TAP-GGC/Foe/blob/main/Documents/Workshop%20Instructions/Repo%20Workshop%20Instructions/Foes-Repo-Workshop2.pdf), or follow this video [Foes - Workshop 2 (Repo)](https://youtu.be/zDPACQ05Vs0) to complete the workshop.
