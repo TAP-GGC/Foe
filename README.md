@@ -9,12 +9,12 @@
 By participating in the workshop, student will get to experiment with JavaScript, HTML, and CSS code to immediately view their changes on their browser.
 * The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
 
-## Team
-* Alex Shaklee
-* Alec Burns
 ## Advisors
 * Dr. Wei Jin
-* Dr. Xu Xin <br><br>
+* Dr. Xu Xin
+## Team
+* Alex Shaklee
+* Alec Burns <br><br>
 ### Team Photo
 <img src= "Media/createSymposium2.jpg" width="400" height="300"> <br>
 (Left: Alec Burns, Right: Alex Shaklee) <br>
